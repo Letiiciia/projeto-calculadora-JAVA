@@ -8,19 +8,19 @@ public class CalculaMedia {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Informe a nota 1: ");
-        Double nota1 = input.nextDouble();
+        double nota1 = input.nextDouble();
 
         System.out.println("Informe a nota 2: ");
-        Double nota2 = input.nextDouble();
+        double nota2 = input.nextDouble();
 
         System.out.println("Informe a nota 3: ");
-        Double nota3 = input.nextDouble();
+        double nota3 = input.nextDouble();
 
         System.out.println("Informe o numero de faltas: ");
-        Double faltas = input.nextDouble();
+        double faltas = input.nextDouble();
 
         Double mediaNota = (nota1 + nota2 + nota3) / 3.0;
-        Double minimoFaltas = 68 * 0.25;
+        double minimoFaltas = 68 * 0.25;
 
         if(mediaNota < 7.0){
             if(faltas > minimoFaltas){
