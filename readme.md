@@ -1,12 +1,12 @@
-## Calculadora de Medias e aprovação
+## Calculadora de Medias e Aprovação
 
 <h1>O projetinho consiste no calculo da média de três notas e a validação da quantidade de faltas no aluno.
 </h1><br>
 ### Pré-requisitos
 
-Antes de utilizar a calculadora, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Antes de utilizar a calculadora, você vai precisar ter instalado em sua máquina as seguintes ferramentas:<br>
 [Git](https://git-scm.com), [JAVA](https://www.java.com/pt-BR/), [JDK](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html).
-Além disto é bom ter um editor para trabalhar com o código como [eclipse](https://www.eclipse.org/downloads/) ou [Intellij IDEA](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
+Além disto é bom ter um editor para trabalhar com o código como [Eclipse](https://www.eclipse.org/downloads/) ou [Intellij IDEA](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
 
 ### Rodando o Back End (servidor)
 
