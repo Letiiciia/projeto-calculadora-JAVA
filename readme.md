@@ -1,6 +1,6 @@
 ## Calculadora de Medias e Aprovação
 <p align="center"> 
-<img src="https://github.com/Letiiciia/projeto-calculadora-JAVA/blob/master/img/calculadora.png" height="50%" width ="50%">
+<img src="https://github.com/Letiiciia/projeto-calculadora-JAVA/blob/master/img/calculadora.png" height="25%" width ="25%">
 </p>
 <p>O projetinho consiste no calculo da média de três notas e a validação da quantidade de faltas no aluno.
 </p><br>
